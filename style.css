@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #c5d1e2;
+}
+
+.container{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#lstBox1{
+    text-align: center;
+    width: 25vw;
+    height: 25vh;
+}
+#lstBox2{
+    text-align: center;
+    width: 25vw;
+    height: 25vh;
+}
